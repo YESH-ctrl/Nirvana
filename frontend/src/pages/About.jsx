@@ -105,10 +105,7 @@ const About = () => {
               <h2 className="text-3xl font-bold text-white mb-4">Meet Our Founder</h2>
               <h3 className="text-xl text-primary mb-4">Sai Eshwar</h3>
               <p className="text-gray-400 mb-6">
-                With over a decade of experience in both technology and spiritual practices, 
-                Sai Eshwar founded Nirvaha with a vision to make spiritual wisdom accessible in our digital age. 
-                His journey from a software engineer to a spiritual tech entrepreneur reflects Nirvaha's 
-                core mission of bridging ancient wisdom with modern innovation.
+                E Sai Eshwar is an aspiring entrepreneur passionate about innovation, sustainability, and mental health. As the founder of GuideBazaar, he shares insights on startups, technology, and competitions. Currently, he is building NIRVAHA, a mental wellness platform integrating ancient Indian wisdom with modern technology. A Microsoft for Startups member and a 12x hackathon and idea pitching finalist, he constantly pushes boundaries in tech-driven solutions. Through his work as a community builder and mentor, he fosters connections between students and industry experts. His journey reflects a commitment to merging tradition with innovation to create impactful, real-world solutions for a better future.
               </p>
               <p className="text-gray-400">
                 "Our goal is to create a space where technology serves as a gateway to spiritual growth, 
